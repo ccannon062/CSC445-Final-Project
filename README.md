@@ -58,6 +58,7 @@ Our analysis revealed significant differences between misinformation and factual
 - `network_metrics.py`: Functions for calculating network metrics
 - `cross_posting_analysis.py`: Functions for analyzing cross-posting behavior
 - `visualization.py`: Functions for generating network visualizations
+- `reddit_metricstxt.py`: Just generates network metrics without the visualizations
 
 ## Installation
 
