@@ -20,6 +20,7 @@ from visualization import (
 )
 from cross_posting_analysis import analyze_crossposters
 
+#Replace the file names here with your files.
 MISINFO_EDGES_PATH = 'reddit_data/network_edges_misinformation_20250408_140600.csv'
 FACTUAL_EDGES_PATH = 'reddit_data/network_edges_factual_20250408_141247.csv'
 MISINFO_CONTENT_PATH = 'reddit_data/all_content_misinformation_20250408_140600.csv'
