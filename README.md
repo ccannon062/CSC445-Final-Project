@@ -73,3 +73,12 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Collect the inital data from Reddit using your Reddit app
+python reddit_scraper.py
+
+# Run the main visualization programs
+python main_analysis.py
+
+# Run without visualizations
+python reddit_metricstxt.py
