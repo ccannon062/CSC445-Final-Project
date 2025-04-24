@@ -60,7 +60,7 @@ Our analysis revealed significant differences between misinformation and factual
 - `visualization.py`: Functions for generating network visualizations
 - `reddit_metricstxt.py`: Just generates network metrics without the visualizations
 
-## Installation
+## Installation & Usage
 
 ```bash
 # Clone the repository
