@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+Author: Caleb Cannon
+
 This project examines how COVID-19 vaccine misinformation spreads through Reddit communities. By analyzing network structures in both misinformation-prone and factual information subreddits, we map information flow between users and communities, identify influential spreaders, and compare structural differences between networks.
 
 ### Research Questions
